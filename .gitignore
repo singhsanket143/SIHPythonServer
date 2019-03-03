@@ -1,0 +1,3 @@
+venv/
+weights/log01_dink34.th
+data/train/models/model.pth
